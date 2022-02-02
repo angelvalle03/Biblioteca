@@ -34,4 +34,4 @@ Luego
 
 -Despues de haber generado la clave pasamos a ejecutar las migraciones
 
--php artisan migrate o php artisan migrate:fresh en caso de crear nuevas migraciones
+-php artisan migrate --seed o php artisan migrate:fresh --seed en caso de crear nuevas migraciones
