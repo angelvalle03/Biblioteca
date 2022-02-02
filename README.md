@@ -1,10 +1,18 @@
 # Biblioteca
 solucion a prueba técnica 
-El entorno de desarrollo de esta solucion fue implementado con
+
+El entorno de desarrollo de esta solucion fue implementado con:
+
 -Laravel 8
+
 -Vue.js
+
+-Bootstrap
+
 -Visual studio code
+
 -xampp
+
 -Base de datos mysql
 
 PASOS PARA EJECUTAR LA APP CORRECTAMENTE
